@@ -1,11 +1,11 @@
+import java.util.Scanner;
 public class test{
-    public static void main(String[] args){
-        System.out.print("A");
-    }
-    public static void main(){
-        System.out.print("B");
-    }
-    public static void start(String[] args){
-        System.out.print("C");
+    public static void main(String[] args) {
+        for(int i=0;i<4;i++){
+            while(3 < 5){
+                System.out.println("Hello");
+                break;
+            }
+        }
     }
 }
