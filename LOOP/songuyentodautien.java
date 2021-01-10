@@ -1,5 +1,5 @@
+package LOOP;
 import java.util.Scanner;
-
 public class songuyentodautien {
     static boolean isPrime(int number) {
         if (number == 2)

@@ -1,5 +1,5 @@
+package LOOP;
 import java.util.Scanner;
-
 public class ungdungtienlai {
     public static void main(String[] args) {
         double money = 1.0;

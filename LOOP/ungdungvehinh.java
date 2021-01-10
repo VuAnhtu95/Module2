@@ -1,5 +1,5 @@
+package LOOP;
 import java.util.Scanner;
-
 public class ungdungvehinh {
     public static void main(String[] args) {
         int choice;

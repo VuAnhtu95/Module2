@@ -1,4 +1,4 @@
-
+package Array;
 public class timgiatrinhonhat {
     public static int minValue(int[] array){
         int min;

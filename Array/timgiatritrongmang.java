@@ -1,3 +1,4 @@
+package Array;
 import java.util.Scanner;
 public class timgiatritrongmang {
     public static void main(String[] args) {
