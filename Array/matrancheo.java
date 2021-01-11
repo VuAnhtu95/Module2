@@ -18,8 +18,9 @@ public class matrancheo {
                     array[i][j] = scanner.nextInt();
                 }
             }
-        } else {
+        } else if (a !=b){
             System.out.println("Không được");
+            System.exit(1);
         }
 
         System.out.println(Arrays.deepToString(array));
