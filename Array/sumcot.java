@@ -24,7 +24,7 @@ public class sumcot {
             for (int j = 0; j < a; j++) {
                 sum += array[j][i];
             }
-            System.out.println("Tổng của cột số " + i + " là " + sum);
+            System.out.println("Tổng của cột số " + (i+1) + " là " + sum);
         }
     }
 }
