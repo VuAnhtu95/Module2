@@ -1,6 +1,6 @@
 package doituonghinhhoc;
 
-public class Shape {
+public class Shape{
     private String color = "green";
     private boolean filled = true;
     public Shape(){}
